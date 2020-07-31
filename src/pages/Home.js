@@ -39,7 +39,7 @@ function Home() {
         <Container>
           <div className="col-md-12 mb-4 white-text text-center wow fadeIn" style={styles.sec}>
 
-            <h3 style={styles.headerC} className="display-3 font-weight-bold white-text mb-0 pt-md-5 pt-5">Diego Lehyt</h3>
+            <h3 style={styles.headerC} className="display-3 gradient-text font-weight-bold white-text mb-0 pt-md-5 pt-5">Diego Lehyt</h3>
             <hr className="hr-light my-4 w-75 style-two"/>
             <h4 style={styles.headerB} className="subtext-header mt-2 mb-4">Creative Full-Stack web developer, ready to work with you.</h4>
             <Link to="/portfolio" className="btn btn-rounded btn-outline-white">
