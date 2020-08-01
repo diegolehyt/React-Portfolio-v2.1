@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 
 const styles = {
   headerB: {
-    fontFamily: "'Architects Daughter', cursive" 
+    fontFamily: "'Heebo', sans-serif" 
   },
   headerC: {
     fontFamily: "'Trade Winds', cursive" 
