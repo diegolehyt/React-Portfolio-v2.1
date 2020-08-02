@@ -99,18 +99,19 @@ function ProjectCard() {
                   
                   <h5 className="font-weight-normal mb-3">Half Time</h5>
   
-                  <p className="text-muted">Restaurant quality reviewing app, that contains recent relevant information and reviews on a restaurant, affordability, atmosphere/location, food and if it is clean.</p>
+                  <p className="text-muted">Register an account and then log in for future visits. Once logged in, the user will have the option to create a fantasy soccer team from professional soccer players around the world and more.</p>
   
                   <ul className="list-unstyled font-small mt-5">
                     <li>
                       <p className="text-uppercase mb-2"><strong>Date</strong></p>
-                      <p className="text-muted mb-4">June 1, 2020</p>
+                      <p className="text-muted mb-4">July 25, 2020</p>
                     </li>
   
                     <li>
                       <p className="text-uppercase mb-2"><strong>Skills</strong></p>
                       <p className="text-muted mb-4">
                         <i className="fab fa-node" style={styles.nodeS}></i>
+                        <i className="fab fa-react" style={styles.uiS}></i>
                         <i className="fab fa-css3-alt" style={styles.cssS}></i>
                         <i className="fab fa-html5" style={styles.htmlS}></i>
                         <i className="fab fa-js-square" style={styles.jsS}></i>
@@ -121,11 +122,11 @@ function ProjectCard() {
   
                     <li>
                       <p className="text-uppercase mb-2"><strong>URLs</strong></p>
-                      <a target="_blank" rel='noopener noreferrer' href="https://revisaproject2.herokuapp.com/">- <i className="fab fa-github-square" style={styles.gitS}></i> Deployment</a>
+                      <a target="_blank" rel='noopener noreferrer' href="https://still-taiga-30261.herokuapp.com/">- <i className="fab fa-github-square" style={styles.gitS}></i> Deployment</a>
                       <br/>
-                      <a target="_blank" rel='noopener noreferrer' href="https://github.com/diegolehyt/Project2.git">- <i className="fab fa-git-square" style={styles.githS}></i> Repository</a>
+                      <a target="_blank" rel='noopener noreferrer' href="https://github.com/diegolehyt/Half-Time.git">- <i className="fab fa-git-square" style={styles.githS}></i> Repository</a>
                       <br/>
-                      <a target="_blank" rel='noopener noreferrer' href="https://youtu.be/DWZUl9LlSak">- <i className="fab fa-youtube" style={styles.ytS}></i> Demo</a>
+                      <a target="_blank" rel='noopener noreferrer' href="https://youtu.be/A2ekO3j8ZdM">- <i className="fab fa-youtube" style={styles.ytS}></i> Demo</a>
                     </li>
                   </ul>
                   
@@ -162,18 +163,19 @@ function ProjectCard() {
                   
                   <h5 className="font-weight-normal mb-3">Google Books Search</h5>
   
-                  <p className="text-muted">Restaurant quality reviewing app, that contains recent relevant information and reviews on a restaurant, affordability, atmosphere/location, food and if it is clean.</p>
+                  <p className="text-muted">This app will allow the user to search for books by name, view, save and delete them as well.</p>
   
                   <ul className="list-unstyled font-small mt-5">
                     <li>
                       <p className="text-uppercase mb-2"><strong>Date</strong></p>
-                      <p className="text-muted mb-4">June 1, 2020</p>
+                      <p className="text-muted mb-4">July 15, 2020</p>
                     </li>
   
                     <li>
                       <p className="text-uppercase mb-2"><strong>Skills</strong></p>
                       <p className="text-muted mb-4">
                         <i className="fab fa-node" style={styles.nodeS}></i>
+                        <i className="fab fa-react" style={styles.uiS}></i>
                         <i className="fab fa-css3-alt" style={styles.cssS}></i>
                         <i className="fab fa-html5" style={styles.htmlS}></i>
                         <i className="fab fa-js-square" style={styles.jsS}></i>
@@ -184,11 +186,9 @@ function ProjectCard() {
   
                     <li>
                       <p className="text-uppercase mb-2"><strong>URLs</strong></p>
-                      <a target="_blank" rel='noopener noreferrer' href="https://revisaproject2.herokuapp.com/">- <i className="fab fa-github-square" style={styles.gitS}></i> Deployment</a>
+                      <a target="_blank" rel='noopener noreferrer' href="https://shrouded-brook-95398.herokuapp.com/">- <i className="fab fa-github-square" style={styles.gitS}></i> Deployment</a>
                       <br/>
-                      <a target="_blank" rel='noopener noreferrer' href="https://github.com/diegolehyt/Project2.git">- <i className="fab fa-git-square" style={styles.githS}></i> Repository</a>
-                      <br/>
-                      <a target="_blank" rel='noopener noreferrer' href="https://youtu.be/DWZUl9LlSak">- <i className="fab fa-youtube" style={styles.ytS}></i> Demo</a>
+                      <a target="_blank" rel='noopener noreferrer' href="https://github.com/diegolehyt/Google-Books.git">- <i className="fab fa-git-square" style={styles.githS}></i> Repository</a>
                     </li>
                   </ul>
                   
@@ -225,33 +225,29 @@ function ProjectCard() {
                   
                   <h5 className="font-weight-normal mb-3">First Portfolio</h5>
   
-                  <p className="text-muted">Restaurant quality reviewing app, that contains recent relevant information and reviews on a restaurant, affordability, atmosphere/location, food and if it is clean.</p>
+                  <p className="text-muted">Portfolio version 1.0, first real portfolio, with "About", "Contact" and "Portfolio" pages, updated with my recent projects.</p>
   
                   <ul className="list-unstyled font-small mt-5">
                     <li>
                       <p className="text-uppercase mb-2"><strong>Date</strong></p>
-                      <p className="text-muted mb-4">June 1, 2020</p>
+                      <p className="text-muted mb-4">may 3, 2020</p>
                     </li>
   
                     <li>
                       <p className="text-uppercase mb-2"><strong>Skills</strong></p>
                       <p className="text-muted mb-4">
-                        <i className="fab fa-node" style={styles.nodeS}></i>
                         <i className="fab fa-css3-alt" style={styles.cssS}></i>
                         <i className="fab fa-html5" style={styles.htmlS}></i>
                         <i className="fab fa-js-square" style={styles.jsS}></i>
                         <i className="fab fa-bootstrap" style={styles.bootS}></i>
-                        <i className="fas fa-database" style={styles.dbS}></i>
                       </p>
                     </li>
   
                     <li>
                       <p className="text-uppercase mb-2"><strong>URLs</strong></p>
-                      <a target="_blank" rel='noopener noreferrer' href="https://revisaproject2.herokuapp.com/">- <i className="fab fa-github-square" style={styles.gitS}></i> Deployment</a>
+                      <a target="_blank" rel='noopener noreferrer' href="https://diegolehyt.github.io/Portfolio/">- <i className="fab fa-github-square" style={styles.gitS}></i> Deployment</a>
                       <br/>
-                      <a target="_blank" rel='noopener noreferrer' href="https://github.com/diegolehyt/Project2.git">- <i className="fab fa-git-square" style={styles.githS}></i> Repository</a>
-                      <br/>
-                      <a target="_blank" rel='noopener noreferrer' href="https://youtu.be/DWZUl9LlSak">- <i className="fab fa-youtube" style={styles.ytS}></i> Demo</a>
+                      <a target="_blank" rel='noopener noreferrer' href="https://github.com/diegolehyt/Portfolio.git">- <i className="fab fa-git-square" style={styles.githS}></i> Repository</a>
                     </li>
                   </ul>
                   
