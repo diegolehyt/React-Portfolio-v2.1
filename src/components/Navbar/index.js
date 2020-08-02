@@ -14,7 +14,7 @@ const styles = {
 // Depending on the current path, this component sets the "active" className on the appropriate navigation link item
 function Navbar() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
+    <nav className="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar font-weight-bolder">
       <div className="container">
         <Link className="navbar-brand" to="/" style={styles.navB}><img src="https://raw.githubusercontent.com/diegolehyt/Portfolio-v2.0/master/images/logo.png" width="40px" height="40px" tabindex="-1" style={styles.imgB} alt="logo"/>Diego Lehyt</Link>
 

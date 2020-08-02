@@ -83,6 +83,195 @@ const styles = {
 function ProjectCard() {
   return (
     <div>
+      <div className="modal fade" id="halftime" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div className="modal-dialog modal-lg modal-dialog-centered" role="document">
+          <div className="modal-content">
+            <div className="modal-body p-0" style={styles.mhS}>
+              <button type="button" className="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+              
+              
+              <div className="row">
+              
+    
+                <div className="col-md-6 py-5 pl-5">
+                  
+                  <h5 className="font-weight-normal mb-3">Half Time</h5>
+  
+                  <p className="text-muted">Restaurant quality reviewing app, that contains recent relevant information and reviews on a restaurant, affordability, atmosphere/location, food and if it is clean.</p>
+  
+                  <ul className="list-unstyled font-small mt-5">
+                    <li>
+                      <p className="text-uppercase mb-2"><strong>Date</strong></p>
+                      <p className="text-muted mb-4">June 1, 2020</p>
+                    </li>
+  
+                    <li>
+                      <p className="text-uppercase mb-2"><strong>Skills</strong></p>
+                      <p className="text-muted mb-4">
+                        <i className="fab fa-node" style={styles.nodeS}></i>
+                        <i className="fab fa-css3-alt" style={styles.cssS}></i>
+                        <i className="fab fa-html5" style={styles.htmlS}></i>
+                        <i className="fab fa-js-square" style={styles.jsS}></i>
+                        <i className="fab fa-bootstrap" style={styles.bootS}></i>
+                        <i className="fas fa-database" style={styles.dbS}></i>
+                      </p>
+                    </li>
+  
+                    <li>
+                      <p className="text-uppercase mb-2"><strong>URLs</strong></p>
+                      <a target="_blank" rel='noopener noreferrer' href="https://revisaproject2.herokuapp.com/">- <i className="fab fa-github-square" style={styles.gitS}></i> Deployment</a>
+                      <br/>
+                      <a target="_blank" rel='noopener noreferrer' href="https://github.com/diegolehyt/Project2.git">- <i className="fab fa-git-square" style={styles.githS}></i> Repository</a>
+                      <br/>
+                      <a target="_blank" rel='noopener noreferrer' href="https://youtu.be/DWZUl9LlSak">- <i className="fab fa-youtube" style={styles.ytS}></i> Demo</a>
+                    </li>
+                  </ul>
+                  
+                </div>
+
+                <div className="col-md-6">
+                  
+                  <div className="view rounded-right" style={styles.H}>
+                    <img className="img-fluid"  style={styles.W} src="https://image.freepik.com/foto-gratis/copas-vino-mesa-bokeh-fondo-bac_23-2148261695.jpg" alt="Sample"/>
+                  </div>
+                  
+                </div>
+              
+              </div>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="modal fade" id="googlebooks" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div className="modal-dialog modal-lg modal-dialog-centered" role="document">
+          <div className="modal-content">
+            <div className="modal-body p-0" style={styles.mhS}>
+              <button type="button" className="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+              
+              
+              <div className="row">
+              
+    
+                <div className="col-md-6 py-5 pl-5">
+                  
+                  <h5 className="font-weight-normal mb-3">Google Books Search</h5>
+  
+                  <p className="text-muted">Restaurant quality reviewing app, that contains recent relevant information and reviews on a restaurant, affordability, atmosphere/location, food and if it is clean.</p>
+  
+                  <ul className="list-unstyled font-small mt-5">
+                    <li>
+                      <p className="text-uppercase mb-2"><strong>Date</strong></p>
+                      <p className="text-muted mb-4">June 1, 2020</p>
+                    </li>
+  
+                    <li>
+                      <p className="text-uppercase mb-2"><strong>Skills</strong></p>
+                      <p className="text-muted mb-4">
+                        <i className="fab fa-node" style={styles.nodeS}></i>
+                        <i className="fab fa-css3-alt" style={styles.cssS}></i>
+                        <i className="fab fa-html5" style={styles.htmlS}></i>
+                        <i className="fab fa-js-square" style={styles.jsS}></i>
+                        <i className="fab fa-bootstrap" style={styles.bootS}></i>
+                        <i className="fas fa-database" style={styles.dbS}></i>
+                      </p>
+                    </li>
+  
+                    <li>
+                      <p className="text-uppercase mb-2"><strong>URLs</strong></p>
+                      <a target="_blank" rel='noopener noreferrer' href="https://revisaproject2.herokuapp.com/">- <i className="fab fa-github-square" style={styles.gitS}></i> Deployment</a>
+                      <br/>
+                      <a target="_blank" rel='noopener noreferrer' href="https://github.com/diegolehyt/Project2.git">- <i className="fab fa-git-square" style={styles.githS}></i> Repository</a>
+                      <br/>
+                      <a target="_blank" rel='noopener noreferrer' href="https://youtu.be/DWZUl9LlSak">- <i className="fab fa-youtube" style={styles.ytS}></i> Demo</a>
+                    </li>
+                  </ul>
+                  
+                </div>
+
+                <div className="col-md-6">
+                  
+                  <div className="view rounded-right" style={styles.H}>
+                    <img className="img-fluid"  style={styles.W} src="https://image.freepik.com/foto-gratis/copas-vino-mesa-bokeh-fondo-bac_23-2148261695.jpg" alt="Sample"/>
+                  </div>
+                  
+                </div>
+              
+              </div>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="modal fade" id="portfolio2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div className="modal-dialog modal-lg modal-dialog-centered" role="document">
+          <div className="modal-content">
+            <div className="modal-body p-0" style={styles.mhS}>
+              <button type="button" className="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+              
+              
+              <div className="row">
+              
+    
+                <div className="col-md-6 py-5 pl-5">
+                  
+                  <h5 className="font-weight-normal mb-3">First Portfolio</h5>
+  
+                  <p className="text-muted">Restaurant quality reviewing app, that contains recent relevant information and reviews on a restaurant, affordability, atmosphere/location, food and if it is clean.</p>
+  
+                  <ul className="list-unstyled font-small mt-5">
+                    <li>
+                      <p className="text-uppercase mb-2"><strong>Date</strong></p>
+                      <p className="text-muted mb-4">June 1, 2020</p>
+                    </li>
+  
+                    <li>
+                      <p className="text-uppercase mb-2"><strong>Skills</strong></p>
+                      <p className="text-muted mb-4">
+                        <i className="fab fa-node" style={styles.nodeS}></i>
+                        <i className="fab fa-css3-alt" style={styles.cssS}></i>
+                        <i className="fab fa-html5" style={styles.htmlS}></i>
+                        <i className="fab fa-js-square" style={styles.jsS}></i>
+                        <i className="fab fa-bootstrap" style={styles.bootS}></i>
+                        <i className="fas fa-database" style={styles.dbS}></i>
+                      </p>
+                    </li>
+  
+                    <li>
+                      <p className="text-uppercase mb-2"><strong>URLs</strong></p>
+                      <a target="_blank" rel='noopener noreferrer' href="https://revisaproject2.herokuapp.com/">- <i className="fab fa-github-square" style={styles.gitS}></i> Deployment</a>
+                      <br/>
+                      <a target="_blank" rel='noopener noreferrer' href="https://github.com/diegolehyt/Project2.git">- <i className="fab fa-git-square" style={styles.githS}></i> Repository</a>
+                      <br/>
+                      <a target="_blank" rel='noopener noreferrer' href="https://youtu.be/DWZUl9LlSak">- <i className="fab fa-youtube" style={styles.ytS}></i> Demo</a>
+                    </li>
+                  </ul>
+                  
+                </div>
+
+                <div className="col-md-6">
+                  
+                  <div className="view rounded-right" style={styles.H}>
+                    <img className="img-fluid"  style={styles.W} src="https://image.freepik.com/foto-gratis/copas-vino-mesa-bokeh-fondo-bac_23-2148261695.jpg" alt="Sample"/>
+                  </div>
+                  
+                </div>
+              
+              </div>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
       <div className="modal fade" id="revisa" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div className="modal-dialog modal-lg modal-dialog-centered" role="document">
           <div className="modal-content">

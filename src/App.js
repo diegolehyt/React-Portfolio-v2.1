@@ -10,7 +10,7 @@ import Wrapper from "./components/Wrapper";
 
 const styles = {
   headerB: {
-    fontFamily: "'Architects Daughter', cursive" 
+    fontFamily: "'Heebo', sans-serif" 
   },
   headerC: {
     fontFamily: "'Trade Winds', cursive" 
