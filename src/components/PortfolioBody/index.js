@@ -17,7 +17,7 @@ function PortfolioBody() {
             <a className="card hoverable mb-4" data-toggle="modal" data-target="#halftime" href>
 
               
-              <img className="card-img-top" src="https://raw.githubusercontent.com/diegolehyt/React-Portfolio/master/public/images/revisa.png" alt="Card cap"/>
+              <img className="card-img-top" src="https://raw.githubusercontent.com/diegolehyt/React-Portfolio-v2.1/master/public/images/halftime.png" alt="Card cap"/>
 
 
               <div className="card-body">
@@ -84,7 +84,7 @@ function PortfolioBody() {
             <a className="card hoverable mb-4" data-toggle="modal" data-target="#googlebooks" href>
 
                 
-              <img className="card-img-top" src="./books.png" alt="Card cap"/>
+              <img className="card-img-top" src="https://raw.githubusercontent.com/diegolehyt/React-Portfolio-v2.1/master/public/images/books.png" alt="Card cap"/>
 
 
               <div className="card-body">

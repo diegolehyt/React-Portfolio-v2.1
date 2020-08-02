@@ -134,7 +134,7 @@ function ProjectCard() {
                 <div className="col-md-6">
                   
                   <div className="view rounded-right" style={styles.H}>
-                    <img className="img-fluid"  style={styles.W} src="https://image.freepik.com/foto-gratis/copas-vino-mesa-bokeh-fondo-bac_23-2148261695.jpg" alt="Sample"/>
+                    <img className="img-fluid"  style={styles.W} src="https://media.istockphoto.com/photos/foot-with-footbal-boots-on-the-ball-picture-id622917986?k=6&m=622917986&s=612x612&w=0&h=m4-TmC9WcvfmIsL7vzw_4H9XJWMxLwE3SJiGvnYDEt0=" alt="Sample"/>
                   </div>
                   
                 </div>
@@ -197,7 +197,7 @@ function ProjectCard() {
                 <div className="col-md-6">
                   
                   <div className="view rounded-right" style={styles.H}>
-                    <img className="img-fluid"  style={styles.W} src="https://image.freepik.com/foto-gratis/copas-vino-mesa-bokeh-fondo-bac_23-2148261695.jpg" alt="Sample"/>
+                    <img className="img-fluid"  style={styles.W} src="https://i.pinimg.com/originals/ee/15/4c/ee154cba2031a5a141e32694ef91c8c8.jpg" alt="Sample"/>
                   </div>
                   
                 </div>
@@ -260,7 +260,7 @@ function ProjectCard() {
                 <div className="col-md-6">
                   
                   <div className="view rounded-right" style={styles.H}>
-                    <img className="img-fluid"  style={styles.W} src="https://image.freepik.com/foto-gratis/copas-vino-mesa-bokeh-fondo-bac_23-2148261695.jpg" alt="Sample"/>
+                    <img className="img-fluid"  style={styles.W} src="https://image.freepik.com/free-vector/futuristic-abstract-background-geometric-vertical-poligonal-shape-purple-pink-yellow-pattern_156062-15.jpg" alt="Sample"/>
                   </div>
                   
                 </div>
