@@ -601,7 +601,7 @@ function ProjectCard() {
                   
                   <h5 className="font-weight-normal mb-3">Weather Dashboard</h5>
   
-                  <p className="text-muted">This repository content the html files: index "main page", the CSS styles "style.css", the JavaScript "script.js" and an "image" folder with the captures for this Readme File.</p>
+                  <p className="text-muted">Weather app with React, you can select as many cities as you want and saved them all. Using localStorage to store the saved cities.</p>
   
                   <ul className="list-unstyled font-small mt-5">
   
@@ -613,7 +613,8 @@ function ProjectCard() {
                     <li>
                       <p className="text-uppercase mb-2"><strong>Skills</strong></p>
                       <p className="text-muted mb-4">
-
+                        <i className="fab fa-node" style={styles.nodeS}></i>
+                        <i className="fab fa-react" style={styles.uiS}></i>
                         <i className="fab fa-css3-alt" style={styles.cssS}></i>
                         <i className="fab fa-html5" style={styles.htmlS}></i>
                         <i className="fab fa-js-square" style={styles.jsS}></i>
@@ -624,9 +625,9 @@ function ProjectCard() {
   
                     <li>
                       <p className="text-uppercase mb-2"><strong>URLs</strong></p>
-                      <a target="_blank" rel='noopener noreferrer' href="https://diegolehyt.github.io/homework6/">- <i className="fab fa-github-square" style={styles.gitS}></i> Deployment</a>
+                      <a target="_blank" rel='noopener noreferrer' href="https://diegolehyt.github.io/weather-react-app/">- <i className="fab fa-github-square" style={styles.gitS}></i> Deployment</a>
                       <br/>
-                      <a target="_blank" rel='noopener noreferrer' href="https://github.com/diegolehyt/homework6.git">- <i className="fab fa-git-square" style={styles.githS}></i> Repository</a>
+                      <a target="_blank" rel='noopener noreferrer' href="https://github.com/diegolehyt/weather-react-app.git">- <i className="fab fa-git-square" style={styles.githS}></i> Repository</a>
                     </li>
                   </ul>
                   

@@ -202,7 +202,7 @@ function PortfolioBody() {
             <a className="card hoverable mb-4" data-toggle="modal" data-target="#weather" href>
 
               
-              <img className="card-img-top" src="https://raw.githubusercontent.com/diegolehyt/React-Portfolio/master/public/images/weather.png" alt="Card cap"/>
+              <img className="card-img-top" src="https://raw.githubusercontent.com/diegolehyt/React-Portfolio-v2.1/master/public/images/weather3.png" alt="Card cap"/>
 
 
               <div className="card-body">
